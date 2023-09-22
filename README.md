@@ -27,4 +27,6 @@ Specifying initial conditions i.e. the lifetimes of each charm hadron needed to 
 
 Body: creation of plots and adding specifications if needed. Here we also comment out the information about the quark constituent for each type of hadron.
 
+I have provided a color code for the segments corresponding to each quark. Up:orange, Down: crimson, Strange: violet, Charm: Green, Bottom: Cyan
+
 The code is followed by the output.
