@@ -1,4 +1,5 @@
 # PhD_RUB
+Executing the required plots
 # Method 1:
 a)Open the file named workbook.ipynb in the repository. 
 
